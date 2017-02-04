@@ -318,7 +318,7 @@
 			qcom,fg-chg-iterm-ma = <100>;
 			fg-cutoff-voltage-mv = <3400>;
 			qcom,thermal-coefficients = [dd 85 63 4a e6 35];
-			qcom,fg-vbat-estimate-diff-mv = <100>;
+			qcom,vbat-estimate-diff-mv = <300>;
 			qcom,cycle-counter-en;
 			qcom,cycle-counter-low-soc = <15>;
 			qcom,cycle-counter-high-soc = <85>;
